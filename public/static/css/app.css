@@ -1,0 +1,22 @@
+
+   {/*Agregando Hoja de ESTILOS CSS */}
+
+
+.listado-productos {
+    
+    /*background-color:  white;*/
+   }
+      
+.contenedor {
+    /*background-color:  white;*/
+
+    max-width: 1200px;
+    width: 95%;
+    padding: 5rem 0;
+    margin: 0 auto;
+}
+    
+.bg-white {
+  background-color: #87CEEB;
+    
+}
